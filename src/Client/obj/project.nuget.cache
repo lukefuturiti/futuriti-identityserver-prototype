@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqoTR/jhxlpfzpmPumVHAcMTUHBXC6e0QRISDtpY2W4GdPejqMdq7Wcj/9rTZx9hoAosW+voKqxR6Dl3I96ptw==",
+  "success": true,
+  "projectFilePath": "C:\\PGit\\IdentityServer4\\futuriti-identityserver-prototype\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukasz\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lukasz\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Lukasz\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
